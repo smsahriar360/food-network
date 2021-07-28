@@ -1,4 +1,4 @@
-/* Reset CSS */
+/* Common CSS */
 
 body {
 	font-family: 'Montserrat', sans-serif;
@@ -146,6 +146,7 @@ p {
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
+
 /* our partners css */
 
 #our-partners{
@@ -172,6 +173,7 @@ p {
 .partners-card:hover {
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
+
 
 /* footer */
 
